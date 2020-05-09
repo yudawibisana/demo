@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "dataBuku":{
+    "id" :001,
+    "nama" : "buku coba"
   }
 }
